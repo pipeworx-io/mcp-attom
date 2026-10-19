@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-attom",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "ATTOM MCP — Premium real estate data from ATTOM Data Solutions",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-27283eefff87019243bf73a60a957d77003c8622a8b5fd1f94a31a6965265716",
-    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
+    "sourceHash": "v1-07bee162d6d25803c5d0ee75ab48a623861b262318a5816e2249916de4aa1eda",
+    "sourceCommit": "54bf7d1c06a0775508a65d0c388dd10ba75174c3"
   }
 }
